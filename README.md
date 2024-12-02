@@ -13,8 +13,6 @@
 - **Estudante de análise e desenvolvimento de sistemas** 
 - **Atualmente interessada em análise de dados**
 
-##
-![Snake animation](https://github.com/3doard4/3doard4/blob/output/github-contribution-grid-snake.svg) 
 
 
 
