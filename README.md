@@ -1,7 +1,5 @@
 ## EDUARDA 👩‍💻
 
-##
-
 I'm a Systems Analysis and Development student, sharing my learning journey and projects here.
 
 <div style="display: inline_block"><br>
